@@ -1,0 +1,5 @@
+name: "Optic Demo"
+tasks:
+  start:
+     command: dotnet run
+     inboundUrl: http://localhost:4000
