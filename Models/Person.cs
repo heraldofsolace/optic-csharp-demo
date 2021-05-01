@@ -4,6 +4,6 @@ namespace optic_demo.Models
     {
         public long Id { get; set; }
         public string Name { get; set; }
-        public string Hobby { get; set; }
+        public string FavouriteHobby { get; set; }
     }
 }
